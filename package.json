@@ -30,18 +30,19 @@
     "changelogen": "^0.4.1",
     "magic-regexp": "^0.6.3",
     "semver": "^7.3.8",
-    "slugify": "^1.6.5"
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.35.3",
     "@antfu/ni": "^0.20.0",
-    "@types/node": "^18.14.2",
+    "@types/node": "^18.15.11",
     "@types/semver": "^7.3.13",
     "@vercel/ncc": "^0.36.1",
     "cross-env": "^7.0.3",
-    "eslint": "^8.35.0",
-    "jiti": "^1.17.1",
+    "eslint": "^8.37.0",
+    "jiti": "^1.18.2",
     "typescript": "^4.9.5",
-    "vitest": "^0.29.2"
-  }
+    "vitest": "^0.29.8"
+  },
+  "packageManager": "pnpm@8.1.1"
 }
