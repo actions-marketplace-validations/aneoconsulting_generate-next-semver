@@ -1,6 +1,6 @@
 {
   "name": "generate-next-semver",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Generate a new version using latest commit messages and following the semantic versioning",
   "author": "",
